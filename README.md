@@ -18,7 +18,7 @@
 <p align="center">
   <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=MR-F1AZ-404&show_icons=true&theme=chartreuse-dark&locale=id">
 </p>
-td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=MR-F1AZ-404&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Mr Qureshi'w GitHub Readme Streak Stats"/> </a>  </td> 
+
     
   <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-F1AZ-404&layout=compact&theme=chartreuse-dark">
 </p>
