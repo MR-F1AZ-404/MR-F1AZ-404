@@ -16,7 +16,7 @@
 <p align="left"> <a href="https://www.python.org" target="_dark" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p align="center">
-  <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=MR-F1AZ-404&show_icons=true&theme=chartreuse-dark&locale=id">
+  
 </p>
 
     <td valign="top"> <a href="https://github.com/Mr-Qureshi-xd/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Qureshi-xdlayout=compact&langs_count=10" alt ="Top Languages"/></td>
