@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm MR FIAZ NIAZI</h1>
+<h1 align="center">HI 👋, I'M MR FIAZ NIAZI</h1>
 <h3 align="center">WELCOME TO MY GITHUB</h3>
+https://readme-typing-svg.demolab.com/?lines=WELCOME+TO+MY+GITHUB
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-f1az-404&label=Profile%20views&color=0e75b6&style=flat" alt="mr-f1az-404" /> </p>
 
