@@ -18,7 +18,6 @@
 <p align="center">
   <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=MR-F1AZ-404&show_icons=true&theme=chartreuse-dark&locale=id">
 </p>
-<td valign="top"><a href="https://github.com/Mr-Qureshi-xd/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=MrDarkYT&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Mr-Qureshi-xd GitHub stats"/></td> </a>
   <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-F1AZ-404&layout=compact&theme=chartreuse-dark">
 </p>
 <p align="center">
