@@ -12,7 +12,7 @@
 </p>
 
 
-<p align="left"> <a href="https://www.python.org" target="_white" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_dark" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-f1az-404&show_icons=true&locale=en&layout=compact" alt="mr-f1az-404" /></p>
 
