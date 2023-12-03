@@ -16,3 +16,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-f1az-404&show_icons=true&locale=en" alt="mr-f1az-404" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-f1az-404&" alt="mr-f1az-404" /></p>
+/p>
+<p align="center">
+<a href="https://github.com/MR-F1AZ-404/Random"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=YounisXyz&repo=auto_share&theme=chartreuse-dark"></a>
+<a href="https://github.com/YounisXyz/uid_crack"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=YounisXyz&repo=uid_crack&theme=chartreuse-dark"></a>
+<a href="https://github.com/YounisXyz/brute_force"><img width="400" 
+height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=YounisXyz&repo=brute_force&theme=chartreuse-dark"></a>
+<a 
