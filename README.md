@@ -11,6 +11,9 @@
 <a href="https://fb.com/mrfiaz404.cyber.owner" target="dark"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrfiaz404.cyber.owner" height="30" width="40" /></a>
 </p>
 
+<a href="https://github.com/AKING110/AKING-PRO"><img title="AKING-PRO" src="https://github-readme-stats.vercel.app/api/pin/?username=AKING110&repo=AKING-PRO&theme=vision-friendly-dark"></a>
+<a href="https://github.com/AKING110/AKING"><img title="AKING" src="https://github-readme-stats.vercel.app/api/pin/?username=AKING110&repo=AKING&theme=vision-friendly-dark"></a>
+<a href="https://github.com/AKING110/Random"><img title="Random" src="https://github-readme-stats.vercel.app/api/pin/?username=AKING110&repo=Random&theme=vision-friendly-dark"></a>
 
 <p align="left"> <a href="https://www.python.org" target="_dark" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
