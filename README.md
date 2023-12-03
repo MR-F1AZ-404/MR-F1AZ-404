@@ -18,8 +18,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-f1az-404&" alt="mr-f1az-404" /></p>
 
 <p align="center">
-<a href="https://github.com/MR-F1AZ-404/Random"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-F1AZ-404&repo=Random&theme=chartreuse-dark"></a>
-<a href="https://github.com/YounisXyz/uid_crack"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=YounisXyz&repo=uid_crack&theme=chartreuse-dark"></a>
-<a href="https://github.com/YounisXyz/brute_force"><img width="400" 
-height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=YounisXyz&repo=brute_force&theme=chartreuse-dark"></a>
+<a href="https://github.com/MR-F1AZ-404/Random"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-F1AZ-404&repo=Random&theme=chartreuse-blank"></a>
+<a href="https://github.com/MR-F1AZ-404/apk"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-F1AZ-404&repo=apk&theme=chartreuse-blank"></a>
+<a href="https://github.com/MR-F1AZ-404/Mail"><img width="400" 
+height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-F1AZ-404&repo=Mail&theme=chartreuse-blank"></a>
 <a 
