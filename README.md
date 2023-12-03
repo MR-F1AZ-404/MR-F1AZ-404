@@ -18,6 +18,7 @@
 <p align="center">
   <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=MR-F1AZ-404&show_icons=true&theme=chartreuse-dark&locale=id">
 </p>
+<a href="https://github-readme-stats.vercel.app/api?username=AKING110&show_icons=true&theme=dark">
 <p align="center">
   <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-F1AZ-404&layout=compact&theme=chartreuse-dark">
 </p>
