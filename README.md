@@ -1,7 +1,7 @@
 <h1 align="center">HI 👋, I'M MR FIAZ NIAZI</h1>
 <h3 align="center">WELCOME TO MY GITHUB</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 -🔭 I’m currently working on **PYTHON**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-f1az-404&label=Profile%20views&color=0e75b6&style=flat" alt="mr-f1az-404" /> </p>
