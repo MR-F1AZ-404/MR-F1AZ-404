@@ -21,6 +21,8 @@
 <p align="center">
   <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-F1AZ-404&layout=compact&theme=chartreuse-dark">
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-f1az-404&" alt="mr-f1az-404" /></p>
+
 <p align="center">
 <a href="https://github.com/MR-F1AZ-404/Random"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-F1AZ-404&repo=Random&theme=chartreuse-dark"></a>
 <a href="https://github.com/MR-F1AZ-404/apk"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-F1AZ-404&repo=apk&theme=chartreuse-dark"></a>
