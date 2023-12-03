@@ -19,7 +19,8 @@
   <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=MR-F1AZ-404&show_icons=true&theme=chartreuse-dark&locale=id">
 </p>
 
-    
+    <td valign="top"> <a href="https://github.com/Mr-Qureshi-xd/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Qureshi-xdlayout=compact&langs_count=10" alt ="Top Languages"/></td>
+    </a>
   <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-F1AZ-404&layout=compact&theme=chartreuse-dark">
 </p>
 <p align="center">
