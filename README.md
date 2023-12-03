@@ -1,5 +1,5 @@
 <h1 align="center">HI 👋, I'M MR FIAZ NIAZI</h1>
-<h2 align="center">https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=WELCOME+TO+MY+GITHUB)](https://git.io/typing-svg</h2>
+<h3 align="center">WELCOME TO MY GITHUB</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 -🔭 I’m currently working on **PYTHON**
