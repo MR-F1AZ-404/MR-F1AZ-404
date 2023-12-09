@@ -13,7 +13,6 @@
 
 - 💬 Ask me about **MY NAME IS MR FIAZ**
 
-- 📫 How to reach me **fiazyt532@gmail.com**
 <p align="left">🔗 Visitors :</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-f1az-404&label=Profile%20views&color=0e75b6&style=flat" alt="mr-f1az-404" /> </p>
 <a href="https://github.com/MR-F1AZ-404"><img src="https://img.shields.io/github/followers/MR-F1AZ-404?label=followers&style=social"/></a>
@@ -29,10 +28,6 @@
   <img width="580" height="210" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-f1az-404&layout=compact&theme=chartreuse-dark">
 </p>
 
-<p align="center">
-<a href="https://github.com/MR-F1AZ-404/Mail"><img width="540" 
-height="220" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-F1AZ-404&repo=Mail&theme=chartreuse-dark"></a>
-<a 
 
 <p align="center">
 <a href="https://github.com/MR-F1AZ-404/Random"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-F1AZ-404&repo=Random&theme=chartreuse-dark"></a>
