@@ -16,6 +16,7 @@
 <p align="left">🔗 Visitors :</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-f1az-404&label=Profile%20views&color=0e75b6&style=flat" alt="mr-f1az-404" /> </p>
 <a href="https://github.com/MR-F1AZ-404"><img src="https://img.shields.io/github/followers/MR-F1AZ-404?label=followers&style=social"/></a>
+
 <a href="https://fb.com/mrfiaz404.cyber.owner" target="dark"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrfiaz404.cyber.owner" height="30" width="40" /></a>
 </p>
 <p align="left"> <a href="https://www.python.org" target="_dark" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
